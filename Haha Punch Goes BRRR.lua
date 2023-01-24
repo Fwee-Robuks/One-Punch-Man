@@ -234,4 +234,3 @@ kan.SoundId = "rbxassetid://335167645"
 kan.Name = "Saitama"
 kan.Looped = true
 kan:Play()
-	end,
